@@ -18,3 +18,8 @@ ou
 # Comando para rodar projeto:
 
 `yarn start`
+
+
+## Local host da aplicação ao rodar  `yarn start`:
+
+http://localhost:3000/
